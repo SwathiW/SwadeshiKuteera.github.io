@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(191, 242, 242)
+    
+}
+
+h2 {text-align:center;}
+h2 {text-decoration-color: rgb(154, 12, 12);}
+p {text-align: left;}
+
+.container{
+    height: 13vh;
+    width: 80;
+    padding: 0 8%;
+    background-color: rgb(7, 7, 4);
+    position: relative;
+}
+
+.logo{
+    width: 120px;
+    float: right;
+    height:fit-content
+
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 70px;
+    padding-top: 30px;
+}
+
+nav a {
+    color: rgb(18, 245, 245);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.main {
+    float: left;
+    margin-right: 80px;
+    padding-top: 25px;
+    padding-block: 10px;
+    width: 27%;
+    height: 50vh;
+}
+
+.Swadeshi {
+
+    width:40%;
+    height:100%;
+}
+
+.Swadeshi1 {
+    width:51%;
+    height:60%;
+    padding-top: 60px;
+    padding-left: 25px;
+}
+
+.main1 {
+    float: left;
+    margin-right: 70px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 28%;
+    height: 50vh;
+}
+
+
+
+
